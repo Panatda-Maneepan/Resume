@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume - Panatda Maneepan</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; max-width: 800px; margin: 40px auto; padding: 0 20px; color: #333; }
+        h1 { border-bottom: 2px solid #333; padding-bottom: 10px; }
+        h2 { color: #0056b3; margin-top: 30px; }
+        ul { padding-left: 20px; }
+    </style>
+</head>
+<body>
+
+    <!-- ชื่อและที่อยู่ -->
+    <h1>Panatda Maneepan (Benz)</h1>
+    <p><strong>Address:</strong> Ratchada Prestige Condominium</p>
+
+    <!-- ข้อความแนะนำตัว -->
+    <h2>Profile Statement</h2>
+    <p>Hello, my name is Benz. I am the youngest child raised by a single mother and have one older brother. I am deeply passionate about understanding and helping others. I have big dreams that I am fully committed to achieving, with the ultimate goal of bringing happiness to my family, friends, and the people around me.</p>
+
+    <!-- ประสบการณ์ทำงาน -->
+    <h2>Work Experience</h2>
+    <ul>
+        <li><strong>Part-time Staff</strong> - Starbucks</li>
+    </ul>
+
+    <!-- การศึกษา -->
+    <h2>Education</h2>
+    <ul>
+        <li><strong>Bachelor of Communication Arts in Digital Film</strong> - University of the Thai Chamber of Commerce (UTCC)</li>
+    </ul>
+
+    <!-- ทักษะพิเศษ -->
+    <h2>Skills</h2>
+    <ul>
+        <li>Exceptional physical and mental stamina; capable of working continuously for up to 3 days without sleep while maintaining good performance and well-being.</li>
+    </ul>
+
+    <!-- ความสนใจ -->
+    <h2>Interests & Goals</h2>
+    <ul>
+        <li>Highly motivated to improve and develop language skills for future opportunities.</li>
+    </ul>
+
+</body>
+</html>
